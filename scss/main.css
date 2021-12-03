@@ -1324,7 +1324,6 @@ footer .footer_div {
 
 footer .footer_div__detail span {
   font-weight: 700;
-  white-space: nowrap;
   color: #949494;
   display: block;
   -webkit-transition: all .2s;
